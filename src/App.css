@@ -1,13 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+SK:wght@100..400&display=swap');
 body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #23272f;
+  background-color: #e36694;
   color: white;
 }
 
 h1 {
   text-align: center;
+  font-family: "Playwrite SK", cursive;
+  margin-top: 12%;
+  margin-bottom: 17%;
 }
 
 .board {
@@ -20,6 +24,7 @@ h1 {
 
 .tile {
   color: currentColor;
+  font-family: "Playwrite SK", cursive;
   font-size: 2em;
   display: flex;
   justify-content: center;
@@ -27,11 +32,11 @@ h1 {
 }
 
 .right-border {
-  border-right: 0.2em solid #0074a6;
+  border-right: 0.2em solid #e2d5d5;
 }
 
 .bottom-border {
-  border-bottom: 0.2em solid #0074a6;
+  border-bottom: 0.2em solid #e2d5d5;
 }
 
 .x-hover:hover::after {
@@ -46,7 +51,7 @@ h1 {
 
 .strike {
   position: absolute;
-  background-color: darkorange;
+  background-color: rgb(236, 212, 30);
 }
 
 .strike-row-1 {
@@ -96,8 +101,8 @@ h1 {
 
 .game-over {
   text-align: center;
-  border: #5468ff 8px;
-  border-style: dotted;
+  border: rgb(236, 212, 30) 12px;
+  border-style: double;
   padding: 10px;
   margin-top: 50px;
   font-size: 1.5em;
@@ -106,7 +111,8 @@ h1 {
 .reset-button {
   margin-top: 50px;
   padding: 20px;
-  background-color: #0074a6;
+  background-color: rgb(235, 169, 107);
+  border: none;
   color: white;
   width: 100%;
   font-size: 1.5em;
