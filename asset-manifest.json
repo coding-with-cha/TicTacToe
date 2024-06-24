@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/TicTacToe/static/css/main.9c38a5cf.css",
-    "main.js": "/TicTacToe/static/js/main.e2051555.js",
-    "static/js/453.e036e8b5.chunk.js": "/TicTacToe/static/js/453.e036e8b5.chunk.js",
-    "static/media/wins.wav": "/TicTacToe/static/media/wins.04224f99a593459a1bf8.wav",
-    "static/media/game_over.wav": "/TicTacToe/static/media/game_over.3894918f7585f9300350.wav",
-    "static/media/click.wav": "/TicTacToe/static/media/click.450b31dca5ff2247781d.wav",
-    "static/media/logo.svg": "/TicTacToe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/TicTacToe/index.html",
-    "main.9c38a5cf.css.map": "/TicTacToe/static/css/main.9c38a5cf.css.map",
-    "main.e2051555.js.map": "/TicTacToe/static/js/main.e2051555.js.map",
-    "453.e036e8b5.chunk.js.map": "/TicTacToe/static/js/453.e036e8b5.chunk.js.map"
+    "main.css": "/TicTacToe/App.js/static/css/main.9c38a5cf.css",
+    "main.js": "/TicTacToe/App.js/static/js/main.59091182.js",
+    "static/js/453.e036e8b5.chunk.js": "/TicTacToe/App.js/static/js/453.e036e8b5.chunk.js",
+    "static/media/wins.wav": "/TicTacToe/App.js/static/media/wins.04224f99a593459a1bf8.wav",
+    "static/media/game_over.wav": "/TicTacToe/App.js/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/TicTacToe/App.js/static/media/click.450b31dca5ff2247781d.wav",
+    "static/media/logo.svg": "/TicTacToe/App.js/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TicTacToe/App.js/index.html",
+    "main.9c38a5cf.css.map": "/TicTacToe/App.js/static/css/main.9c38a5cf.css.map",
+    "main.59091182.js.map": "/TicTacToe/App.js/static/js/main.59091182.js.map",
+    "453.e036e8b5.chunk.js.map": "/TicTacToe/App.js/static/js/453.e036e8b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c38a5cf.css",
-    "static/js/main.e2051555.js"
+    "static/js/main.59091182.js"
   ]
 }
