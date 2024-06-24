@@ -102,7 +102,7 @@ h1 {
 .game-over {
   text-align: center;
   border: rgb(236, 212, 30) 12px;
-  border-style: double;
+  border-style: dotted;
   padding: 10px;
   margin-top: 50px;
   font-size: 1.5em;
